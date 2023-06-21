@@ -14,3 +14,5 @@ The code files include 3 Jupyter notebooks, one for each model.
 
 # Results
 Similar values of the logistic regression parameters in sections 2 & 3 of 'Logistic Regression Gradient Descent.ipynb' indicate that the custom gradient descent implementation is correct.
+
+Similar values of the neural network loss function in sections 2 & 3 for the same number of iterations in 'Training a Shallow Neural Network.ipynb' indicates that the custom gradient descent implementation is correct.
